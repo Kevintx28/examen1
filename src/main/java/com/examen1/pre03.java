@@ -1,5 +1,5 @@
 package com.examen1;
-public class pre01 {
+public class pre03 {
 
     public static void main(String[] args) { 
 
